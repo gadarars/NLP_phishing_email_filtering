@@ -4,11 +4,6 @@ Detecting phishing emails using Natural Language Processing (NLP) and Deep Learn
 
 ---
 
-## 👥 Team
-- Max 2 students per project
-- Deadline: 15 May 2026
-
----
 
 ## 📌 Problem Statement
 
