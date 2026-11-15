@@ -5,6 +5,21 @@ Detecting phishing emails using Natural Language Processing (NLP) and Deep Learn
 ---
 
 
+## 👥 Team & Contributions
+
+**Mohamed Khallaf**
+- Engineered the six email-level features (URL count, urgency keywords, HTML tags, etc.)
+- Built and evaluated the TF-IDF baselines: Multinomial Naive Bayes and Logistic Regression
+- Implemented word-level explanations from Logistic Regression weights to show which words drive phishing predictions
+- Compared all three models and analyzed the results
+
+**Roaa Gadara**
+- Built the text preprocessing pipeline (URL replacement, HTML removal, normalization)
+- Designed, trained, and tuned the Bidirectional LSTM
+- Produced the evaluation plots and confusion matrix for the final model
+
+---
+
 ## 📌 Problem Statement
 
 Phishing emails are a major cybersecurity threat. They are designed to look legitimate and manipulate users into revealing sensitive information such as passwords or financial data. This project builds an intelligent system that classifies emails as **Phishing** or **Safe** using NLP and deep learning techniques.
